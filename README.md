@@ -208,7 +208,7 @@ Architecture first, features second.
 
 ## 📊 Mermaid Architecture Diagram (Source)
 
-![FAST API PostgreSQL Architecture Flow](showcase_pictures\01_fastapi_jwt_postgresql_architecture_flow.png "FAST API PostgreSQL Architecture Flow")
+![FAST API PostgreSQL Architecture Flow](showcase_pictures/01_fastapi_jwt_postgresql_architecture_flow.png "FAST API PostgreSQL Architecture Flow")
 
 ---
 
